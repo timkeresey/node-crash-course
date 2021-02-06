@@ -11,13 +11,15 @@
     "url": "git+https://github.com/timkeresey/node-crash-course.git"
   },
   "keywords": [
-    "node",
-    "Keresey"
+    "node"
   ],
   "author": "Tim Keresey",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/timkeresey/node-crash-course/issues"
   },
-  "homepage": "https://github.com/timkeresey/node-crash-course#readme"
+  "homepage": "https://github.com/timkeresey/node-crash-course#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
