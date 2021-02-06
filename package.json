@@ -1,0 +1,23 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "node crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timkeresey/node-crash-course.git"
+  },
+  "keywords": [
+    "Tim",
+    "Keresey"
+  ],
+  "author": "Tim Keresey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timkeresey/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/timkeresey/node-crash-course#readme"
+}
