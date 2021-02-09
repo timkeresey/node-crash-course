@@ -12,5 +12,3 @@ myEmitter.on('event', () => console.log('event fired!'));
 // Init event
 myEmitter.emit('event');
 myEmitter.emit('event');
-
-//
